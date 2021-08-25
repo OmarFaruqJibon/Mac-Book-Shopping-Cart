@@ -1,0 +1,11 @@
+.info-btn{
+    border: 1px solid black;
+    padding: 7px;
+    margin-right: 3px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.info-btn:hover{
+    background-color: black;
+    color: white;
+}
